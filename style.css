@@ -1,3 +1,6 @@
+body {
+  background-color: aqua;
+}
 .container {
   height: 300vh;
 }
